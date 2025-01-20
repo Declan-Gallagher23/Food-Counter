@@ -43,6 +43,7 @@ button {
 }
 
 #main {
+    height: 2700px;
     margin-left: auto;
     margin-right: auto;
 }
