@@ -1,6 +1,8 @@
 body {
     background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVqcDU2eXoycXZpOHplY2lzaW5kZ3poaG95YmFkZ3ozYXRnMm5tNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y3ADSTHiLwhEs/giphy.gif");
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     text-align: center;
